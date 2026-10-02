@@ -1,0 +1,13 @@
+{
+  "name": "Caja El Clon",
+  "short_name": "Caja El Clon",
+  "description": "La caja de El Clon, en vivo y de solo lectura.",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0f172a",
+  "lang": "es-AR",
+  "icons": [
+    { "src": "icono-256.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
